@@ -1,0 +1,8 @@
+C:\Users\gurrels\source\repos\Integrador\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\gurrels\source\repos\Integrador\Integrador\obj\Debug\Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurrels\source\repos\Integrador\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\gurrels\source\repos\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\gurrels\source\repos\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\gurrels\source\repos\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\gurrels\source\repos\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\gurrels\source\repos\Integrador\Integrador\obj\Debug\Integrador.pdb

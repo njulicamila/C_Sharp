@@ -1,0 +1,8 @@
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\bin\Debug\ejercicio1desafio2.exe.config
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\bin\Debug\ejercicio1desafio2.exe
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\bin\Debug\ejercicio1desafio2.pdb
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\obj\Debug\ejercicio1desafio2.csproj.AssemblyReference.cache
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\obj\Debug\ejercicio1desafio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\obj\Debug\ejercicio1desafio2.csproj.CoreCompileInputs.cache
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\obj\Debug\ejercicio1desafio2.exe
+C:\Users\jnunez\source\repos\ejercicio1desafio2\ejercicio1desafio2\obj\Debug\ejercicio1desafio2.pdb
